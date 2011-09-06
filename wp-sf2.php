@@ -4,7 +4,7 @@
   Plugin Name: Wordpress Symfony2 Wedlock
   Version: 1.0
   Plugin URI: http://www.craftitonline.com
-  Description: Wedlock your apps with Symfony2 :)
+  Description: Wedlock your apps with Symfony2. <strong><a href="http://github.com/cordoval/wp-sf2">View the README.md at github for instructions</a></strong>.
   Author: Luis Cordova - cordoval@gmail.com http://www.craftitonline.com
   Author URI: http://www.craftitonline.com
  */
