@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: cordoval
 Donate link: http://bit.ly/9xbyzM
-Tags: symfony2, twig, extend, power, object oriented
+Tags: symfony2, twig, extend, power, object oriented, component
 Requires at least: 3.2.1
 Tested up to: 3.2.1
 Stable tag: 1.0
