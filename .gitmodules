@@ -1,9 +1,0 @@
-[submodule "lib/ClassLoader"]
-	path = lib/ClassLoader
-	url = https://github.com/symfony/ClassLoader.git
-[submodule "lib/Twig"]
-	path = lib/Twig
-	url = https://github.com/fabpot/Twig.git
-[submodule "lib/Twig-extensions"]
-	path = lib/Twig-extensions
-	url = https://github.com/fabpot/Twig-extensions.git
