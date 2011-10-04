@@ -20,7 +20,7 @@ function sf2AutoLoad() {
     ));
 
     $loader->registerPrefixes(array(
-        'Twig_Extensions_' => __DIR__.'/lib/Twig/Twig-extensions/lib',
+        'Twig_Extensions_' => __DIR__.'/lib/Twig-extensions/lib',
         'Twig_'            => __DIR__.'/lib/Twig/lib',
     ));
     $loader->register();
